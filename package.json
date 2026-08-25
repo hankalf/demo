@@ -1,0 +1,11 @@
+{
+  "name": "northstar-homebase-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline demo of the North Star Home Base dashboard — all data invented",
+  "scripts": {
+    "build": "node build-demo.js",
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
